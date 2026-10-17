@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	  <title>About Us</title>
+	  <style>
+body {
+  margin: 0;
+  padding: 0;
+}
+
+h2, p {
+  margin: 10px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+ul li {
+  float: left;
+}
+
+ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  background-color: #111111;
+}
+</style>
+	</head>
+	<body>
+    <ul>
+  <li><a href="index.html">Home</a></li>
+  <li><a href="music.html">Music</a></li>
+  <li><a href="friends.html">Friends Directory</a></li>
+  <li><a href="events.html">Events</a></li>
+  <li><a href="about-us.html">About Us</a></li>
+</ul>	  
+	  <p>Homogyn Records Ltd. is a cooperative DIY record label on Turtle Island. We operate on the traditional territory of the Neutral, Anishinaabeg, and Haudenosaunee peoples in so-called ontario. The continued operation of
+	    neo-colonial forces here [and abroad] is shameful to say the least.</p><br>
+    <p> Our focus is the curation, distribution, and promotion of harsh noise wall, hardcore, underground rap, no wave, free improv, and other such outsider art; our intention is to stimulate union activity in the local music industry,
+      and disrupt greed in the modern digital music industry.</p><br>
+    <p>Our aim is to use algorithmic social entertainment platforms to disseminate agitative propaganda pushing individuals away from allowing their thoughts to be formed
+      passively during their online experience, in addition of course to a seizure of the so-called music industry by musicians. As such, any person interested in a collectivized and unionized stance for Canadian musicians should
+      reach our email [below] if they are curious how they can
+      get involved in this effort. </p><br>
+    <p>We are currently looking for experimental musicians interested in limited CD or tape runs. With the waning influence [and long term unprofitibility] of platforms like Spotify, we are interested in what platforming looks like in a post-exploitation post-streaming economy. If joining a digital e-noise P2P ring sounds interesting to you we would love to hear from you and discuss our options</p><br> 
+    <p>Please direct all inquiries, concerns, and declarations to homogyn@proton.me</p>
+	</body>
+</html>

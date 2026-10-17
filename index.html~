@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>HOMOGYN RECORDS</title>
+    <style>
+body {
+  margin: 0;
+  padding: 0;
+}
+
+h2, p {
+  margin: 10px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+ul li {
+  float: left;
+}
+
+ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  background-color: #111111;
+}
+</style>
+  </head>
+  <body>
+    <ul>
+  <li><a href="index.html">Home</a></li>
+  <li><a href="music.html">Music</a></li>
+  <li><a href="friends.html">Friends Directory</a></li>
+  <li><a href="events.html">Events</a></li>
+  <li><a href="about-us.html">About Us</a></li>
+</ul>
+       	 HOMOGYN Records is basically a record label that was founded in 0 A.D. and we bascically have like 50 triple platinum records. look us up. and like i worked with the best in my peak man did i ever tell you i worked with the beatles? yeah dude, their whole early era, that was all me, check the producer credit on their old shit bro. i also worked with nirvana and the spice girls and prince and michael jackson once but that's a story for another day. </p>
+<a href="seal1.jpg">Seal 1</a> <a href="seal2.jpg">Seal 2</a> <a href="seal3.jpg">Seal 3</a> <a href="seal4.jpg">Seal 4</a><br>
+<p> Tap below stay tapped in:</p>
+<a href="https://www.instagram.com/homogyn.records?igsh=dWh3MjlqZWV4aGt3"><img src="insta.png"></img></a>
+<a href="https://www.tiktok.com/@homogyn?_r=1&_t=ZS-96VvyX5KYIK"><img src ="tiktok.jpg"></img></a>
+<!-- <a href=#twitter><img src="twitter.jpg"></img></a> -->
+<a href="https://www.facebook.com/share/17bUQjdsSQ/"><img src="facebook.jpeg"></img></a>
+<p> HOMOGYN Records: Let's Figure something Out</p>
+<p> HOMOGYN Records: By Musicians, For Money</p>
+<p> HOMOGYN Records: Okay guys, let's just make beautiful music together please?</p>
+  </body>
+</html>
